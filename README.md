@@ -1,10 +1,9 @@
-My CNC Fun Projects.  
+## My CNC Fun Projects
 
-Putting Backups up to GitHub - Binary files
+A collection of personal CNC machining projects, designs, and experiments.
 
+### Projects
 
-+Rainbow cookie board - Bunch of holes to keep the rainbow cookies in their place
-
-+Poptart - Cutout for making poptarts,  Pastry, filling then dough
-
-+Chittarta - Board using zither pins, M5 threaded rod and brass pin to string wire for pasta cutting
+* **Rainbow Cookie Board**: A specialized jig featuring a precision array of holes designed to hold rainbow cookies securely in place.
+* **Poptart**: A custom pastry mold designed for making homemade pop pastries, mapping out the base pastry layer, filling cavity, and top dough cap.
+* **Chitarra**: A custom fresh pasta-cutting board built from solid maple stock, utilizing zither pins, M5 threaded rods for wire bridging, and string wire for precision cutting.
